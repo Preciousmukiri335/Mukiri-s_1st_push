@@ -1,0 +1,7 @@
+Created an empty Repo on the Github.com website.
+Created a Folder in File Explorer  (can also be created in the Terminal) & named it similar to the Repo we created earlier.
+Initialised a git repo in our prj using (git init)
+Linked the remote repo with the git repo using (git remote add origin <url-link> [replace <url-link> with the actual repo url e.g 'https://github.com/Preciousmukiri335/Mukiri-s_1st_push.git'])
+Stage the files in git using (git add ./file-path)
+Commit the files staged using (git commit -m "Commit message" [replace commit message with your message of choice])
+Created a branch 
