@@ -4,4 +4,5 @@ Initialised a git repo in our prj using (git init)
 Linked the remote repo with the git repo using (git remote add origin <url-link> [replace <url-link> with the actual repo url e.g 'https://github.com/Preciousmukiri335/Mukiri-s_1st_push.git'])
 Stage the files in git using (git add ./file-path)
 Commit the files staged using (git commit -m "Commit message" [replace commit message with your message of choice])
-Created a branch 
+Created a branch called 'main' using (git branch -M <branch name> [replace <branch name> with the your specific branch name])
+Pushing the changes to github using (git push -u origin <branch-name-you-chose-previously>)
